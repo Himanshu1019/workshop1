@@ -1,10 +1,9 @@
 
-public class Uc1 {
-
+public class GamblingSimulation {
+	int everydayStake=100;
+	int betpergame=1;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int every_dayStake=100;
-int bet_perday=1;
 
 	}
 
